@@ -1,0 +1,13 @@
+
+“
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ßóÚ±å1J$e63cdc8a-351e-430d-9970-b654ebe2d375
+™
+java:S1104"QMake model a static final constant or non-public and provide accessors if needed.(¢úõşÿÿÿÿ8ßóÚ±å1J$eff16819-3194-4cbe-bacd-a6ec3f98a1d7
+—
+java:S1104"UMake noOfTyres a static final constant or non-public and provide accessors if needed.(éû•8Ä”Ö²å1J$f5b2cece-5578-45f2-b6c0-f92b3cc03e02
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ç€Ã 8ïšç±å1J$651ba2f8-0f10-4854-81b9-468cb1334c6c
+m	java:S106"+Replace this use of System.out by a logger.(Ç€Ã 8…áä±å1J$c0442e44-0316-49ff-b233-7ea88d7d7e24
+“
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÁÓ¹8Øúè±å1J$0555de88-6d43-4e85-9a93-63574a84adcc
+l	java:S106"+Replace this use of System.out by a logger.(ÁÓ¹8Øúè±å1J$dabe0262-07df-4173-8ae3-78a267df361a

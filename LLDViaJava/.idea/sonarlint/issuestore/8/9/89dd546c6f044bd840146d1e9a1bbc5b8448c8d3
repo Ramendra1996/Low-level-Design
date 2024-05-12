@@ -7,3 +7,7 @@ m
 java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8˜ğŸöÙ1
 q
 java:S1104"OMake nos a static final constant or non-public and provide accessors if needed.(‚ßÜúÿÿÿÿ8˜ğŸöÙ1
+G	java:S106"+Replace this use of System.out by a logger.(ƒ‘Ò˜8õğÔ§å1
+G	java:S106"+Replace this use of System.out by a logger.(Òı˜Ö8ùğÔ§å1
+L	java:S106""+Replace this use of System.out by a logger.(ÜëÁëıÿÿÿÿ8‡ñÔ§å1
+L	java:S106%"+Replace this use of System.out by a logger.(¶‚„ûÿÿÿÿ8‰ñÔ§å1

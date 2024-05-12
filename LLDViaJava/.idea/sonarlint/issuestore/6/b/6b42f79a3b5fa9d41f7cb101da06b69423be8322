@@ -1,0 +1,10 @@
+
+‡
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "clonedScorpio".(¡¹¾„øÿÿÿÿ8Öýã®ö1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êÛíÌ8×ýã®ö1
+p
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¨«Ž¿8Ýýã®ö1
+X	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³8ßýã®ö1
+]	java:S125"<This block of commented-out lines of code should be removed.(þï›þÿÿÿÿ8ßýã®ö1
+e
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(¨«Ž¿8àýã®ö1

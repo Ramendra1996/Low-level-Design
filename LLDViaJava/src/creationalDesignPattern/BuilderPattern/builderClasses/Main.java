@@ -1,0 +1,16 @@
+package creationalDesignPattern.BuilderPattern.builderClasses;
+
+import creationalDesignPattern.BuilderPattern.Models.ICar;
+
+public class Main {
+    public static void main(String[] args) {
+
+        ICarBuilder builder = new ScorpioBuilder();
+
+        Director director = new Director(builder);
+        //guidance dedo
+        director.construct(false);
+
+        ICar car = builder.build();
+    }
+}

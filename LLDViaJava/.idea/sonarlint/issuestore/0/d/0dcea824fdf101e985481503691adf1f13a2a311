@@ -1,0 +1,25 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆÜ»Ÿùÿÿÿÿ8…òù”ö1J$88255bd1-00ff-4c13-a639-a7cc470f8a9a
+Ÿ
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(üÃÔ—øÿÿÿÿ8òù”ö1J$f59b5be2-d9e5-4c41-af08-0a5643d938ab
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(üÃÔ—øÿÿÿÿ8òù”ö1J$aa49aeff-6139-4afc-8789-df1d46bc31bf
+
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(¡ë¬ıÿÿÿÿ8’òù”ö1J$111375f4-e6fa-406a-9a4f-8d91cfa29ad1
+€
+java:S1854"8Remove this useless assignment to local variable "obj2".(åÍõ¯ıÿÿÿÿ8µ×ş”ö1J$437cc0b3-762f-4013-be34-ed0baf7c367c
+{
+java:S1854"8Remove this useless assignment to local variable "obj1".(Ëß°8¶×ş”ö1J$b6881460-1b20-4366-97b3-22b8490b7fc4
+l
+java:S1481")Remove this unused "obj1" local variable.(Ëß°8·×ş”ö1J$4b6970f9-be5a-4b43-84c8-88eadc43d5d5
+q
+java:S1481")Remove this unused "obj2" local variable.(åÍõ¯ıÿÿÿÿ8¸×ş”ö1J$d70397fb-23b1-4a1e-8d91-ec8d5838b2ab
+t
+java:S1602",Remove useless curly braces around statement(´Ã×Ğıÿÿÿÿ8¼×ş”ö1J$a9194f59-c4fb-451b-9923-c3d3b22aacf3
+”
+java:S1612"LReplace this lambda with method reference 'SingletonDCLocking::getInstance'.(´Ã×Ğıÿÿÿÿ8Œ€•ö1J$7326d691-3bbf-4a51-901c-74bb4df51296
+t
+java:S1602",Remove useless curly braces around statement(÷áİáşÿÿÿÿ8½×ş”ö1J$720af941-b70e-4507-b324-8ccd833ec752
+”
+java:S1612"LReplace this lambda with method reference 'SingletonDCLocking::getInstance'.(÷áİáşÿÿÿÿ8ŸŒ€•ö1J$8f14506d-21a3-4890-85c9-82a9ddf4d614

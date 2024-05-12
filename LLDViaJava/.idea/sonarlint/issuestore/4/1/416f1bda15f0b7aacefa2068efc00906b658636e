@@ -1,0 +1,20 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï–„ÿÿÿÿÿ8õõ½½ö1
+>
+java:S1170"!Make this final field static too.(¯ù¶¬8ùõ½½ö1
+=
+java:S1170	"!Make this final field static too.(Ãˆİ8ùõ½½ö1
+>
+java:S1170
+"!Make this final field static too.(ÛŒ’½8ùõ½½ö1
+C
+java:S1170"!Make this final field static too.(¡ÜàÊıÿÿÿÿ8ùõ½½ö1
+E
+java:S1068"(Remove this unused "name" private field.(¯ù¶¬8üõ½½ö1
+F
+java:S1068	"*Remove this unused "seater" private field.(Ãˆİ8ıõ½½ö1
+K
+java:S1068
+".Remove this unused "dimensions" private field.(ÛŒ’½8ıõ½½ö1
+N
+java:S1068",Remove this unused "wingSpan" private field.(¡ÜàÊıÿÿÿÿ8ıõ½½ö1

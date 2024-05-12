@@ -1,0 +1,20 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆÜ»Ÿùÿÿÿÿ8÷Şä”ö1J$fafa081d-4ff1-4d8c-bc83-24dd5adfd0a9
+p
+java:S2440	"-Remove this instantiation of "SingletonLazy".(¾Çä8—ßä”ö1J$e308002c-a20e-489d-b815-285101242a7c
+{
+java:S1854"8Remove this useless assignment to local variable "obj2".(Éø‚å8¸ßä”ö1J$b1592fe3-1b8c-4810-a4f0-b1c5a17a57e5
+€
+java:S1854"8Remove this useless assignment to local variable "obj1".(»„Õüøÿÿÿÿ8¸ßä”ö1J$f8cf5c93-5f74-4c36-ad62-1a42544c312e
+q
+java:S1481")Remove this unused "obj1" local variable.(»„Õüøÿÿÿÿ8Æßä”ö1J$ea4fae9d-4523-4f05-8464-4dff75b03cba
+l
+java:S1481")Remove this unused "obj2" local variable.(Éø‚å8Êßä”ö1J$9b9c3586-d230-4f00-88b6-f2f24295acbc
+o
+java:S1602",Remove useless curly braces around statement(ô»‚¬8Õßä”ö1J$9bae0266-9813-4a0a-9586-de0a44d5a356
+Š
+java:S1612"GReplace this lambda with method reference 'SingletonLazy::getInstance'.(ô»‚¬8×ßä”ö1J$e848879c-bbba-4d5f-a79d-f6ce841097c0
+t
+java:S1602",Remove useless curly braces around statement(©´™üÿÿÿÿ8Ûßä”ö1J$69ec65fa-71f1-4467-ad74-8d15ab031a04
+
+java:S1612"GReplace this lambda with method reference 'SingletonLazy::getInstance'.(©´™üÿÿÿÿ8Ûßä”ö1J$fd4f5cd1-9072-444f-a92a-0fc4d385e327
