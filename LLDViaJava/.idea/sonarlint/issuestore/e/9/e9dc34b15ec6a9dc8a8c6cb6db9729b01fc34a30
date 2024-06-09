@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßõ¢öúÿÿÿÿ8»”€âý1J$34880952-7986-4e60-91ab-590bf4e65080
+Â
+java:S62047"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ð¦üåþÿÿÿÿ8â”€âý1J$df4ad0f3-9de8-4281-ad49-703fcc87acc9
+n
+java:S19057"&Remove this unnecessary cast to "int".(ð¦üåþÿÿÿÿ8ä”€âý1J$c53f7a78-87b0-48b9-9ca2-2b1ccac68d57
+Â
+java:S6204<"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(”ôÅÿÿÿÿÿ8ç”€âý1J$59a25995-8b68-45cf-a3c0-0c725d34f281
+n
+java:S1905<"&Remove this unnecessary cast to "int".(”ôÅÿÿÿÿÿ8é”€âý1J$78865d80-fa54-4aee-b8e6-044ebf7a37d6
+½
+java:S6204B"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(Ë§Šù8Ÿ¶€âý1J$30d5030f-363c-4f1a-a22b-5f88ccc10b69
+i
+java:S1905B"&Remove this unnecessary cast to "int".(Ë§Šù8 ¶€âý1J$cc2bb21d-d622-41be-9fcb-b6982d87edab

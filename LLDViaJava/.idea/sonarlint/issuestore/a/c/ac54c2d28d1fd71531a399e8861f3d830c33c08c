@@ -1,0 +1,6 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßõ¢öúÿÿÿÿ8Ì®ã˜ý1J$574a194f-601f-45c4-b4bd-73d87849fdac
+˜	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£¿ëüùÿÿÿÿ8Í®ã˜ý1J$3fe0ed21-1fbd-4bb9-9f9b-78c1c3a6c60b
+~	java:S125""<This block of commented-out lines of code should be removed.(å¨Ù½8Ø®ã˜ý1J$03ab2b09-b7e2-42f5-8cfb-94f100012359
+‚
+java:S1128":Remove this unused import 'java.util.function.BiConsumer'.(¿ÍÅøÿÿÿÿ8Ø®ã˜ý1J$ca91e976-331c-43af-813c-7ea9d22380b8

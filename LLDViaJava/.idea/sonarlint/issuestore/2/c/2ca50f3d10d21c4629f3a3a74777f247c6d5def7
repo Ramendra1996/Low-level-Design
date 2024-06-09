@@ -1,0 +1,22 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó„Å8²•·ş1J$65bbc30c-1895-437c-8ac0-e03643324244
+’
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(­§óùÿÿÿÿ8“²•·ş1J$564a2a89-6564-4a3d-81cb-2ff5fa94c2e5
+u
+java:S1113"-Do not override the Object.finalize() method.(­§óùÿÿÿÿ8”²•·ş1J$02178332-30f2-432e-ae53-f36d2985a58d
+n
+java:S1174"&Make this finalize() method protected.(­§óùÿÿÿÿ8”²•·ş1J$3154f582-a7bc-446c-af05-a5558f253e3d
+y
+java:S1854"6Remove this useless assignment to local variable "s2".(åï›8–²•·ş1J$e84d5ae4-62ea-426c-9e8f-6ef5f09c07f9
+y
+java:S1854"6Remove this useless assignment to local variable "s1".(áµ¤¾8–²•·ş1J$bb32ece7-f552-4fc2-bdaa-a90fb36bbe80
+y
+java:S1854"6Remove this useless assignment to local variable "s2".(‡Üı8–²•·ş1J$d9e48d9f-d910-4288-b658-7d2f8bcd3c43
+~
+java:S1854"6Remove this useless assignment to local variable "s1".(¥ èÛıÿÿÿÿ8–²•·ş1J$23d1a787-c2c0-4fda-85a3-a03720f77e49
+o
+java:S1481"'Remove this unused "s1" local variable.(¥ èÛıÿÿÿÿ8˜²•·ş1J$1577041b-acb2-45ac-9735-f7681efb0a72
+j
+java:S1481"'Remove this unused "s2" local variable.(‡Üı8˜²•·ş1J$0a03968e-36ac-498d-bdd7-f070e8616729
+—
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8™²•·ş1J$59daa653-ecd7-431e-8e03-1b36409a2e4a

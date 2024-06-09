@@ -1,0 +1,17 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßõ¢öúÿÿÿÿ8ì†îâý1J$944dba28-fcb0-46b2-a690-7ec17d93f3de
+r
+java:S1197"*Move the array designators [] to the type.(¸”É¼ûÿÿÿÿ8ô†îâý1J$b09df108-82ef-4ed6-bf3c-bdbf45d60de5
+}	java:S125"<This block of commented-out lines of code should be removed.(»šï@8÷†îâý1J$164663f1-5892-445c-b97e-77817af2b381
+
+java:S1612"JReplace this lambda with method reference 'IllegalArgumentException::new'.(Ùû‘ò8ù†îâý1J$4b503b9d-a986-463b-a5ec-27a58a636e81
+m
+java:S1197"*Move the array designators [] to the type.(¿³½‰8€‡îâý1J$9c594ecb-1617-4e12-bb8f-fbdf2fec3db6
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8‡îâý1J$ea12cddf-16d2-4659-a3b5-a2b409623752
+
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8‡îâý1J$93cd6f22-67a0-47d4-98c5-c497ada69e1f
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8‡îâý1J$9a539afc-dc0d-4822-8204-4ea90d874306
+
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8‡îâý1J$36032220-599b-4d27-a6a9-e0c8ba6794cf

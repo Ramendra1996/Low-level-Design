@@ -1,0 +1,18 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÔ‚Ò8Ö÷®²ÿ1J$62b41643-3faf-4fb2-902a-f85da9cd7d66
+}
+java:S1118":Add a private constructor to hide the implicit public one.(Õ€Äó8Ù÷®²ÿ1J$5f1dcb7b-b8a8-40be-9c78-89c4eec02836
+ˆ
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(»ûºÎ8Ú÷®²ÿ1J$624a7674-b3dd-4b14-b6da-7469245bce35
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(±Ÿ—±ÿÿÿÿÿ8Ü÷®²ÿ1J$08f66fcc-d836-40a9-b703-63930d34386e
+…
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(©Ø®8Ü÷®²ÿ1J$7cb9f516-eba0-44e4-a22c-9268082b3d9a
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ8Ý÷®²ÿ1J$c139c737-85d4-4bcf-9893-c51c2704bc74
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ8Þ÷®²ÿ1J$4a26dc10-1f71-4c48-abff-0bac69443e72
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ8ß÷®²ÿ1J$186ed46e-ab36-4015-9a00-23f2c7e8f814
+}
+java:S1161%":Add the "@Override" annotation above this method signature(“–ýþ8à÷®²ÿ1J$a289e4a2-fcd5-48e7-a4e7-c20b7933682f

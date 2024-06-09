@@ -1,0 +1,25 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßõ¢öúÿÿÿÿ8·ñÒ¹ı1
+r
+java:S36557"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(í§èşÿÿÿÿ8½ñÒ¹ı1
+m
+java:S36553"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(†–Ô©8½ñÒ¹ı1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ş­–Òüÿÿÿÿ8ÂñÒ¹ı1
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ĞíÅÓ8ÃñÒ¹ı1
+—
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(îñôø8ÄñÒ¹ı1
+W	java:S125"<This block of commented-out lines of code should be removed.(åÒ‡d8ÅñÒ¹ı1
+]
+java:S1612""@Replace this lambda with method reference 'System.out::println'.(›‘ğ8ÇñÒ¹ı1
+_
+java:S16123"BReplace this lambda with method reference 'Comparable::compareTo'.(†–Ô©8ÈñÒ¹ı1
+d
+java:S16127"BReplace this lambda with method reference 'Comparable::compareTo'.(í§èşÿÿÿÿ8ÉñÒ¹ı1
+]
+java:S1612B"@Replace this lambda with method reference 'System.out::println'.(ç¼ƒê8ÊñÒ¹ı1
+]
+java:S1612E"@Replace this lambda with method reference 'System.out::println'.(ü§ÔÇ8ÊñÒ¹ı1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8ÌñÒ¹ı1

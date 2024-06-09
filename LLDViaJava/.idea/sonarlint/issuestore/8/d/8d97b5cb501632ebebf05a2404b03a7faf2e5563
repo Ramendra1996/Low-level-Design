@@ -1,0 +1,22 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó„Å8‡Ó³ÿ1
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8Ó³ÿ1
+C
+java:S1860"&Synchronize on a new "Object" instead.(Ü²€ÿ8Ó³ÿ1
+€
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(±Ÿ—±ÿÿÿÿÿ8Ó³ÿ1
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8Ó³ÿ1
+H
+java:S1860"&Synchronize on a new "Object" instead.(öÈ­ıÿÿÿÿ8Ó³ÿ1
+W
+java:S1161 ":Add the "@Override" annotation above this method signature(“–ış8Ó³ÿ1
+H
+java:S1860!"&Synchronize on a new "Object" instead.(öÈ­ıÿÿÿÿ8Ó³ÿ1
+€
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(±Ÿ—±ÿÿÿÿÿ8Ó³ÿ1
+`
+java:S2276%"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8Ó³ÿ1
+C
+java:S1860*"&Synchronize on a new "Object" instead.(Ü²€ÿ8‘Ó³ÿ1

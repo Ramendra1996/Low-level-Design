@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßõ¢öúÿÿÿÿ8 ª¼ý1J$e3698f22-7f8a-421a-bbb1-ee2720740fa1
+“
+java:S3655;"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(è¢ˆŸ8– ª¼ý1J$120408e4-2008-4f8c-bafe-a457ef18af74
+˜
+java:S3655G"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(î§ê™ûÿÿÿÿ8— ª¼ý1J$97087c89-1bd1-4034-8a8e-584a72a82bcf
+ƒ
+java:S16125"@Replace this lambda with method reference 'System.out::println'.(ÃÎ³Š8 ª¼ý1J$785fcc2b-ee5c-4fcb-a399-0c18823cc2f9
+d
+java:S38647"!Remove this use of "Stream.peek".(°í¤8ž ª¼ý1J$a11a88ea-237b-4d69-b016-e91c37e0e1b8
+Â
+java:S6204>"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(õ£½æüÿÿÿÿ8  ª¼ý1J$aecd3176-151b-4de8-9765-4540eeb714d2

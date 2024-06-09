@@ -1,0 +1,9 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÔ‚Ò8Èúä±ÿ1J$236bbfa1-ccbb-4bc6-a7c9-afa801003f27
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç€µ8Ëúä±ÿ1J$f257ca4c-80b2-459a-a568-bb4b005bf8aa
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(±Ÿ—±ÿÿÿÿÿ8Ìúä±ÿ1J$fb5ce902-f4ba-4b81-b5c4-f47bb9218e77
+}
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8Îúä±ÿ1J$04fbe53e-d9df-4a60-8d4d-d24778dbd027
+€
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(±Ÿ—±ÿÿÿÿÿ8ÚÙç±ÿ1
